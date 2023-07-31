@@ -1,0 +1,11 @@
+.container{
+    display: block;
+    
+}
+.card{
+    float: left;
+    margin: 2px;
+    padding: 2px;
+    height: 300px;
+    width: 200px;
+}

@@ -1,0 +1,30 @@
+/* .itinerario:after{
+    content: "";
+    display: table;
+    clear: both;
+    
+}
+.infovuelo, .infosalida, .escala, .infollegada, .iconoavion{
+    float: left;
+    padding: 10px;
+
+}
+.duracion{
+    float: right;
+}
+.FormPasajero{
+    margin: 2px;
+    padding: 2px;
+} */
+
+/* .right-section{
+    float: right;
+    border-color: black;
+    border: 10px;
+    margin-left: 40px;
+    height: 500px;
+}
+.left-section {
+    float: left;
+    margin-right: 20px;
+  } */
